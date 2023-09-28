@@ -3,5 +3,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Personal Portfolio
-description: Welcome to my electrical engineering portfolio, where I present a diverse array of experiences that showcase my journey in the field. This portfolio serves as a testament to my dedication and passion for electrical engineering, demonstrating how my coursework, design team, and professional experience have shaped my expertise and readiness to take on future challenges in the field.
+title: [Personal Portfolio]
+description: [Welcome to my electrical engineering portfolio, where I present a diverse array of experiences that showcase my journey in the field. This portfolio serves as a testament to my dedication and passion for electrical engineering, demonstrating how my coursework, design team, and professional experience have shaped my expertise and readiness to take on future challenges in the field.]
