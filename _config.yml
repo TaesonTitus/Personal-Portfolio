@@ -2,8 +2,4 @@ theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
-
-#title: [Circuit of Achievements: My Electrical Engineering Portfolio] 
-#description: [Welcome to my electrical engineering portfolio, where I present a diverse array of experiences that showcase my journey in the field. This portfolio serves as a testament to my dedication and passion for electrical engineering, demonstrating how my coursework, design team, and professional experience have shaped my expertise and readiness to take on future challenges in the field.]
+description: [Welcome to my electrical engineering portfolio, where I present a diverse array of experiences that showcase my journey in the field. This portfolio serves as a testament to my dedication and passion for electrical engineering, demonstrating how my coursework, design team, and professional experience have shaped my expertise and readiness to take on future challenges in the field.]
